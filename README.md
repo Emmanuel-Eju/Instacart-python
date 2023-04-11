@@ -11,7 +11,6 @@ This project uses Excel and Python. Essentially, the following tools/libraries w
 - Jupyter Notebook
 - Pandas
 - Seaborn
-- Mathplotlib
 - Matplotlib
 - Scipy
 - Numpy
